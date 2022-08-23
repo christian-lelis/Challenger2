@@ -10,6 +10,6 @@ Olá, me chamo Christian Lelis e esse é o segundo desafio que foi requisitado p
 
 - Para poder emular o código em um celular virtual android será necessário a utilização do "Android Emulator".
 
-- Caso queira, você pode clicar em [video]() para poder ver o video que criei rodando essa aplicação.
+- Caso queira, você pode clicar em [video](https://drive.google.com/file/d/1UBj2OB7ytw882yit4zMiyVCtyzstyykE/view?usp=sharing) para poder ver o video que criei rodando essa aplicação.
 
 - Cuidado, pode parecer que não, mas esses fantasminhas podem matar o PacMan! 
