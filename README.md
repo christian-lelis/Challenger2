@@ -1,4 +1,4 @@
-# Challenger 1
+# Challenger 2
 
 Olá, me chamo Christian Lelis e esse é o segundo desafio que foi requisitado pelo Escribo - Inovação para o Aprendizado. A ideia era replicar o jogo do PacMan de 80', espero que gostem de resultado.
 
